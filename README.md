@@ -71,5 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [React Bootstrap](https://react-bootstrap.github.io/) - For the UI components.
 - [React Toastify](https://fkhadra.github.io/react-toastify/) - For notifications.
-```
-
